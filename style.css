@@ -1,0 +1,46 @@
+h1{
+    color:rgb(0, 245, 82)
+}
+
+.header{
+    justify-content: center;
+    margin: 10px;
+    background-color: cornflowerblue;
+    display:flex;
+}
+
+.site-description{
+    display:flex;
+    justify-content: first baseline;
+    flex-direction: column;
+}
+
+.menu{
+    justify-content: left;
+    display:flex;
+    color:blue
+    
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    justify-content: space-evenly;
+}
+.grid img{
+    border:2px black
+    border-radius 50px
+}
+body{
+    margin: 0px;
+    background-color:#aef129
+}
+.footer{
+    text-align: center;
+    font-family: fantasy;
+    font-size:small;
+    font-weight:300px;
+    color:crimson
+}
+
